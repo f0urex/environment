@@ -82,9 +82,14 @@ urxvt*shading: 20
 
 !! URxvt Appearance
 
+*.font: xft:MesloLGSDZ Nerd Font:style=Regular:size=10
+*.boldFont: xft:MesloLGSDZ Nerd Font:style=Bold:size=10
+*.italicFont: xft:MesloLGSDZ Nerd Font:style=Italic:size=10
+*.boldItalicFont: xft:MesloLGSDZ Nerd Font:style=Bold Italic:size=10
+
 !URxvt*font: xft:Fantasque Sans Mono:size=12
 !URxvt*font: xft:Fira Mono:size=11
-URxvt*font: xft:Fira Code:size=10
+!URxvt*font: xft:Fira Code:size=10
 !URxvt*font: xft:Fira Code:size=11,xft:DejaVu Sans Mono:autohint=true:size=12
 !URxvt*font: xft:Fira Code:size=11, xft:Papirus:size=10
 !
